@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:name=".BaseApplication"
-        android:theme="@style/Theme.PhableTest">
+        android:theme="@style/SplashScreenTheme">
         <activity
             android:name=".MainActivity"
             android:exported="true">
